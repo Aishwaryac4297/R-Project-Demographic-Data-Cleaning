@@ -21,5 +21,6 @@ It showcases:
 
 ### 🧾 Sample Output Table
 
+![Image](https://github.com/user-attachments/assets/daa3e445-1adb-4cf0-8bf6-65431a2ff948)
 
 
