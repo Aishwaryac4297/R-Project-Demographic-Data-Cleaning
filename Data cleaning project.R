@@ -1,4 +1,4 @@
-setwd('C:\\Users\\Aishwarya\\Desktop\\project+notes')
+setwd('C:\\Users\\Desktop\\project+notes')
 library(readr)
 df<-read_csv('R Project Cleaning Data csv file.csv')
 View(df)
